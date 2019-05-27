@@ -11,7 +11,9 @@
 ## git merge dev 合并分支
 ## 成功
 
-## wechat
+## wechat \!\!\!
+
+---
 
 > A Vue.js project
 
